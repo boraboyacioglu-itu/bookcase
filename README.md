@@ -28,7 +28,7 @@ Before running anything, make sure to have installed the required libraries. Thi
 
 First of all, to parse all the info from all of the books available on the website, run: ```python3 get_books.py```. This saves the results in ```books.json```, which is already included in this repository.
 
-Later, all the tried models can be found in the Jupyter Notebook ```demos.ipynb````
+Later, all the tried models can be found in the Jupyter Notebook ```demos.ipynb```.
 
 But the main process (including parsing) happens by directly running ```main.ipynb```.
 
